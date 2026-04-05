@@ -1,0 +1,7 @@
+Create a new file called .gitignore in your project root and paste this:
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+data/wdi_raw.csv
