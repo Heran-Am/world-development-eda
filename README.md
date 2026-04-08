@@ -88,6 +88,18 @@ world-development-eda/
 └── requirements.txt         # Dependencies
 
 ---
+## 🖥️ Interactive Dashboard
+An interactive Streamlit dashboard is included with 4 pages:
+- **Overview** — KPIs and key charts
+- **Country Explorer** — Track any country's journey 2000–2022
+- **Compare Countries** — Side by side comparison of any two countries
+- **Rankings & Insights** — Top 10 lists and regional summaries
+
+To launch:
+```bash
+streamlit run app.py
+```
+---
 
 ## 🚀 How to Run
 ```bash
